@@ -1,5 +1,6 @@
 # local model
 llama-2-7b-chat/*
+llama-2-7b/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
